@@ -1,0 +1,10 @@
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csprojAssemblyReference.cache
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.AssemblyInfoInputs.cache
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.AssemblyInfo.cs
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.deps.json
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.runtimeconfig.json
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.runtimeconfig.dev.json
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.dll
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.pdb
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.dll
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.pdb
