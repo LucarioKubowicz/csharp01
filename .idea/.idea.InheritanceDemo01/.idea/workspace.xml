@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8ae7d7-7af2-4061-ad34-cbea84a909a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="2a8ae7d7-7af2-4061-ad34-cbea84a909a0" name="Default Changelist" comment="z rajdera">
+      <change afterPath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/PlantUml.Net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.CopyComplete" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/InheritanceDemo01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/InheritanceDemo01.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="InheritanceDemo01" type="DotNetProject" factoryName=".NET Project">
@@ -97,8 +98,16 @@
       <workItem from="1585601971138" duration="85000" />
       <workItem from="1586897214625" duration="144000" />
       <workItem from="1586897362761" duration="15000" />
-      <workItem from="1587237409777" duration="552000" />
+      <workItem from="1587237409777" duration="1174000" />
     </task>
+    <task id="LOCAL-00001" summary="z rajdera">
+      <created>1587238093013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587238093013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +126,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="z rajdera" />
+    <option name="LAST_COMMIT_MESSAGE" value="z rajdera" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="320" y="100" key="#Notifications" timestamp="1587237533811">
       <screen x="0" y="23" width="1440" height="823" />
@@ -126,34 +139,34 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.823@0.23.1440.823" timestamp="1587237718412" />
-    <state width="699" height="212" key="GridCell.Tab.0.bottom" timestamp="1585515922849">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1587238526549">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="699" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1585515922849" />
-    <state width="699" height="212" key="GridCell.Tab.0.center" timestamp="1585515922848">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1587238526549" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1587238526548">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="699" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1585515922848" />
-    <state width="699" height="212" key="GridCell.Tab.0.left" timestamp="1585515922848">
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1587238526548" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1587238526547">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="699" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1585515922848" />
-    <state width="699" height="212" key="GridCell.Tab.0.right" timestamp="1585515922848">
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1587238526547" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1587238526548">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state width="699" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1585515922848" />
-    <state x="229" y="73" key="SettingsEditor" timestamp="1585515887122">
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1587238526548" />
+    <state x="229" y="73" key="SettingsEditor" timestamp="1587238596430">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1585515887122" />
+    <state x="229" y="73" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1587238596430" />
     <state width="498" height="445" key="SwitcherDM" timestamp="1585515338154">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.23.1440.823@0.23.1440.823" timestamp="1585515338154" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1587237990240">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1587238098681">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1587237990240" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1587238098681" />
     <state x="509" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587237881322">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
