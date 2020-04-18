@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8ae7d7-7af2-4061-ad34-cbea84a909a0" name="Default Changelist" comment="" />
+    <list default="true" id="2a8ae7d7-7af2-4061-ad34-cbea84a909a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InheritanceDemo01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/InheritanceDemo01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/InheritanceDemo01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/InheritanceDemo01.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritanceDemo01/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/InheritanceDemo01/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +21,12 @@
   <component name="FavoritesManager">
     <favorites_list name="InheritanceDemo01" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/Downloads/LearnCSharpCSFiles/Chapter 8/InheritanceDemo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/LearnCSharpCSFiles/Chapter 8/InheritanceDemo/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InheritanceDemo01/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -29,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -81,6 +97,7 @@
       <workItem from="1585601971138" duration="85000" />
       <workItem from="1586897214625" duration="144000" />
       <workItem from="1586897362761" duration="15000" />
+      <workItem from="1587237409777" duration="552000" />
     </task>
     <servers />
   </component>
@@ -89,7 +106,26 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="100" key="#Notifications" timestamp="1587237533811">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="320" y="100" key="#Notifications/0.23.1440.823@0.23.1440.823" timestamp="1587237533811" />
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1587237718412">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.823@0.23.1440.823" timestamp="1587237718412" />
     <state width="699" height="212" key="GridCell.Tab.0.bottom" timestamp="1585515922849">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -114,5 +150,13 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.23.1440.823@0.23.1440.823" timestamp="1585515338154" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1587237990240">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1587237990240" />
+    <state x="509" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587237881322">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="509" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1587237881322" />
   </component>
 </project>
