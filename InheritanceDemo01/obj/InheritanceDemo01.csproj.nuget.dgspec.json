@@ -14,7 +14,7 @@
         "outputPath": "/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lukasz/.config/NuGet/NuGet.Config"
+          "/Users/lukasz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

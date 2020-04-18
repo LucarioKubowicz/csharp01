@@ -8,3 +8,5 @@
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/InheritanceDemo01.pdb
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.dll
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.pdb
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.CoreCompileInputs.cache
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.genruntimeconfig.cache
