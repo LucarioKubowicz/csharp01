@@ -26,6 +26,10 @@
   "frameworks": {
     "netcoreapp3.0": {
       "dependencies": {
+        "Graphviz": {
+          "target": "Package",
+          "version": "[2.38.0.2, )"
+        },
         "PlantUml.Net": {
           "target": "Package",
           "version": "[1.2.48, )"

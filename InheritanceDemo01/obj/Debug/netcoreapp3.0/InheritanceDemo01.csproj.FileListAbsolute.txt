@@ -12,3 +12,4 @@
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.genruntimeconfig.cache
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/PlantUml.Net.dll
 /Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/obj/Debug/netcoreapp3.0/InheritanceDemo01.csproj.CopyComplete
+/Users/lukasz/RiderProjects/InheritanceDemo01/InheritanceDemo01/bin/Debug/netcoreapp3.0/Graphviz.dll

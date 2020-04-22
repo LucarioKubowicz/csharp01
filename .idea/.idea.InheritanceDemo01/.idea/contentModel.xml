@@ -17,7 +17,9 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
-        <e p="test.uml" t="Include" />
+        <e p="test.puml" t="Include" />
+        <e p="test01.puml" t="Include" />
+        <e p="test02.puml" t="Include" />
       </e>
       <e p="InheritanceDemo01.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
